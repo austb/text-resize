@@ -3,7 +3,7 @@
 
 This Git repo provides the code to resize text to be the max size possible without going outside of the element they are inside of.
 The code is designed to be easily modified to fit your needs.  
-An example of this code in action can be seen [here] (http://jsfiddle.net/zpS9X/)
+An example of this code in action can be seen <a href="http://jsfiddle.net/zpS9X/" target="_blank">hereM</a>
 
 ## Dependencies
 
