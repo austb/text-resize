@@ -3,7 +3,7 @@
 
 This Git repo provides the code to resize text to be the max size possible without going outside of the element they are inside of.
 The code is designed to be easily modified to fit your needs.  
-An example of this code in action can be seen <a href="http://jsfiddle.net/zpS9X/" target="_blank">hereM</a>
+An example of this code in action can be seen <a href="http://jsfiddle.net/zpS9X/" target="_blank">here</a>
 
 ## Dependencies
 
@@ -25,4 +25,4 @@ After jQuery text-resize requires a .css file and a .js file to function properl
 
 ## License 
 
-This javascript tool is very simple therefore it is distributed in the [Public Domain](http://unlicense.org/)
+This javascript tool is very simple therefore it is distributed in the <a href="http://unlicense.org/" target="_blank">Public Domain</a>
