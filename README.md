@@ -2,6 +2,7 @@
 ===========
 
 This Git repo provides the code to resize text to be the max size possible without going outside of the element they are inside of.
+The code is designed to be easily modified to fit your needs.
 
 ## Dependencies
 
@@ -20,3 +21,7 @@ After jQuery text-resize requires a .css file and a .js file to function properl
 
 <script type="text/javascript" src="js/text-resize.js"></script>
 ```
+
+## License 
+
+This javascript tool is very simple therefore it is distributed in the [Public Domain](http://www.google.com)
