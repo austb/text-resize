@@ -1,0 +1,36 @@
+.buttonGroup {
+    display: block;
+}
+.buttonLabel {
+    background-color: #EEEEEE;
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+}
+
+.buttonLabel:hover {
+    cursor: pointer;
+}
+
+.blue {
+    width: 30%;
+    height: 60px;
+    background-color: blue;
+    color: #FFF;
+}
+
+.green {
+    width: 22%;
+    height: 40px;
+    background-color: green;
+}
+
+.bbutton {
+    font-size: auto;
+    display: inline-block;
+}
+
+.gbutton {
+    font-size: auto;
+    display: inline-block;
+}
